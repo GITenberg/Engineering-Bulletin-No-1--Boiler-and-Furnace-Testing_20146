@@ -1,0 +1,37 @@
+_repo: Engineering-Bulletin-No-1--Boiler-and-Furnace-Testing_20146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strohm, Rufus T. (Rufus Tracy)
+    alias: Strohm, Rufus Tracy
+    birthdate: 1877
+    gutenberg_agent_id: '9106'
+    url: http://www.gutenberg.org/2009/agents/9106
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20146'
+language: en
+publication_note: "Washington\r\nGovernment Printing Office\r\n1918"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steam-boilers -- Testing'
+- !lcc 'TN'
+- !lcsh 'Furnaces'
+tableOfContents: "Title Page\r\nForeword\r\nBoiler and Furnace Testing\r\nNecessity\
+  \ for Testing Boilers\r\nWeighing the Coal\r\nMeasuring the Feed Water\r\nTemperature\
+  \ of Feed Water\r\nSteam Pressure\r\nWorking up the Test\r\nBoiler Horsepower or\
+  \ Capacity\r\nHeating Surface\r\nCost of Evaporation\r\nTable of Test Results\r\n\
+  How to Use the Test Results\r\nTable of Factors of Evaporation\r\nTable of Factors\
+  \ of Evaporation—Concluded\r\nPublications on the Utilization of Coal and Lignite\r\
+  \nPublications Available for Free Distribution\r\nPublications That May Be Obtained\
+  \ Only Through the Superintendent of Documents"
+title: 'Engineering Bulletin No 1: Boiler and Furnace Testing'
+url: http://www.gutenberg.org/ebooks/20146
